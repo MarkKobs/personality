@@ -24,6 +24,5 @@ public class MainActivity extends AppCompatActivity {
         titanic=new Titanic();
         titanic.start(myTitanicView);
         mJellyLayout=new JellyRefreshLayout(this);
-
     }
 }
